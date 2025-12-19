@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Bill! I recently obtained my bachelor's degree in computer science from the Department of Informatics & Telecommunications at the National & Kapodistrian University of Athens.
+I am also pursuing a master's degree in computer science in the same university with a focus on knowledge, data and information management.
+I am currently working as a part of a research lab within my university department, where I am conducting research on the broader field of telecommunications.
+My main interests at the moment are LLMs and Computer Vision models. I like experimenting with both by building small scale projects.
 <!--
 **BillMentzinis/BillMentzinis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
